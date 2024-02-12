@@ -9,3 +9,8 @@ h1 {
     font-size: 50px;
     margin-top: 40px;
 }
+
+.corner-header {
+    color: #ffffff;
+    font-size: 10px;
+}
